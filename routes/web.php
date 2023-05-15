@@ -37,8 +37,11 @@ Route::get('/contact-us', function () {
 });
 
 // acount setting
-Route::get('/acc-set', function () {
+Route::get('/acc-setsds', function () {
     return view('Pages.AccountSetting');
 });
 
 
+Route::get('/register', function () {
+    return view('Pages.registration');
+});
