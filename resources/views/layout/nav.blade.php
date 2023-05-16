@@ -18,10 +18,10 @@
             </div>
             <div class="vr"></div>
             <div class="col-1 text-center lead">
-                <a class="nav-item nav-link" href="#">Login</a>
+                <a class="nav-item nav-link" href="/login">Login</a>
             </div>
             <div class="col-1 text-center lead">
-                <a class="nav-item nav-link" href="#">Sign Up</a>
+                <a class="nav-item nav-link" href="/register">Sign Up</a>
             </div>
             <div class="col-2 text-center lead">
                 <button class="btn navbar-btn py-0 px-2" style="background-color: aqua; border-radius: 200px;">Register as Provider</button>

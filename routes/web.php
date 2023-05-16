@@ -41,4 +41,7 @@ Route::get('/acc-set', function () {
     return view('Pages.AccountSetting');
 });
 
+Route::get('/register', function () {
+    return view('Auth.Registration');
+});
 
